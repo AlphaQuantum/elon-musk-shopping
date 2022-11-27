@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/elon-musk-shopping/static/css/main.073c9b0a.css",
-    "main.js": "/elon-musk-shopping/static/js/main.10d7a81d.js",
-    "static/js/787.4759281b.chunk.js": "/elon-musk-shopping/static/js/787.4759281b.chunk.js",
-    "static/media/logo.svg": "/elon-musk-shopping/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/elon-musk-shopping/static/css/main.abd64e84.css",
+    "main.js": "/elon-musk-shopping/static/js/main.38ded479.js",
     "index.html": "/elon-musk-shopping/index.html",
-    "main.073c9b0a.css.map": "/elon-musk-shopping/static/css/main.073c9b0a.css.map",
-    "main.10d7a81d.js.map": "/elon-musk-shopping/static/js/main.10d7a81d.js.map",
-    "787.4759281b.chunk.js.map": "/elon-musk-shopping/static/js/787.4759281b.chunk.js.map"
+    "main.abd64e84.css.map": "/elon-musk-shopping/static/css/main.abd64e84.css.map",
+    "main.38ded479.js.map": "/elon-musk-shopping/static/js/main.38ded479.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.10d7a81d.js"
+    "static/css/main.abd64e84.css",
+    "static/js/main.38ded479.js"
   ]
 }
