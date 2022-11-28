@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/elon-musk-shopping/static/css/main.cdd045e5.css",
-    "main.js": "/elon-musk-shopping/static/js/main.c1ad995f.js",
+    "main.css": "/elon-musk-shopping/static/css/main.ecd749ed.css",
+    "main.js": "/elon-musk-shopping/static/js/main.1f354799.js",
     "index.html": "/elon-musk-shopping/index.html",
-    "main.cdd045e5.css.map": "/elon-musk-shopping/static/css/main.cdd045e5.css.map",
-    "main.c1ad995f.js.map": "/elon-musk-shopping/static/js/main.c1ad995f.js.map"
+    "main.ecd749ed.css.map": "/elon-musk-shopping/static/css/main.ecd749ed.css.map",
+    "main.1f354799.js.map": "/elon-musk-shopping/static/js/main.1f354799.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdd045e5.css",
-    "static/js/main.c1ad995f.js"
+    "static/css/main.ecd749ed.css",
+    "static/js/main.1f354799.js"
   ]
 }
